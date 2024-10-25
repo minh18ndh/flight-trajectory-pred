@@ -14,3 +14,5 @@
 (5) dataset: extract all the data of flight record N86HD-abcd31 from (4)
 
 (6) and (7) dataset: split from the (5) into training and testing subsets
+
+You can view the datasets here: https://husteduvn-my.sharepoint.com/:f:/g/personal/minh_ndh210591_sis_hust_edu_vn/Eg2VgOwTFeFHn3h8m0TuXLEB9DpR3fSsS8KE71RzVTaOWg?e=SPccD2
