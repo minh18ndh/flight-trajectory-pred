@@ -7,5 +7,5 @@
 
 (3) code file: extract the data of flight record N86HD-abcd31
 
-(4) and (5) code file: train and test different models on the data of flight record N86HD-abcd31
+(4) code file: train and test different models on the data of flight record N86HD-abcd31
 
